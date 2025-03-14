@@ -1,0 +1,5 @@
+{
+    "nadpis": "Vitaj na mojej stránke!",
+    "podnadpis": "Toto je podnadpis, ktorý sa načítal zo súboru JSON.",
+    "odsek": "Tento text je uložený v JSON súbore a bol dynamicky načítaný JavaScriptom."
+}
